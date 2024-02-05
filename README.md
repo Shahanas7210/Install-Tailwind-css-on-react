@@ -1,10 +1,17 @@
 # Install Tailwind css on react
 
-# 1. Create a new project:
-If you haven't already created your project, you can use the following commands to create a new project with your preferred package manager (npm or yarn). Replace your-project-name with your actual project name.
+## 1. Create a new project:
+If you haven't already created your project, you can use the following commands to create a new project with your preferred package manager (npm or yarn). Replace your-project-name with your actual project name.'
 
 For npm:
-npx create-react-app your-project-name
+
+```bash
+  npx create-react-app your-project-name
+```
+
+
+
+
 
 For yarn:
 yarn create react-app your-project-name
